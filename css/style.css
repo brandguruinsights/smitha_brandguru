@@ -210,7 +210,7 @@ background-image: url("../images/smitha_banner.jpg");
 background-size: cover;
 background-position: center center; 
 background-repeat: no-repeat;
-background-attachment: fixed;
+/* background-attachment: fixed; */
 padding-top: 10%;
 
 -o-background-size: cover;
