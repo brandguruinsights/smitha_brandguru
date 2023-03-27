@@ -1249,6 +1249,10 @@ padding-bottom: 2% !important;
    .index_about_image{
     margin-bottom: 6%;
    }
+  .book_session{
+    background-image:  url(../images/from_background.webp);
+   }
+  
   
  }
 
